@@ -1,7 +1,8 @@
 
 # analysis001
 
-WO(A member of the Koto Developers)
+WO (A member of the Koto Developers)
+
 https://github.com/WO01
 
 ## language
@@ -10,16 +11,21 @@ Japanese
 
 ## analysis 
 
-‚Ç‚Ìƒ`ƒF[ƒ“‚ğ—Dæ‚·‚é‚©‚ÍƒuƒƒbƒN‚‚Å‚Í‚È‚­CƒuƒƒbƒN‚Ìchainwork’l‚ğ—˜—p‚·‚é‚Ì‚ÅiÅ‹ßŒ©’¼‚µ‚Ä’m‚Á‚½jD
+ã©ã®ãƒã‚§ãƒ¼ãƒ³ã‚’å„ªå…ˆã™ã‚‹ã‹ã¯ãƒ–ãƒ­ãƒƒã‚¯é«˜ã§ã¯ãªãï¼Œãƒ–ãƒ­ãƒƒã‚¯ã®chainworkå€¤ã‚’åˆ©ç”¨ã™ã‚‹ã®ã§ï¼
 
-‚¿‚å‚¤‚ÇC‚»‚Ì‚É³‹Kƒ`ƒF[ƒ“‚ÌƒuƒƒbƒN
+ã¡ã‚‡ã†ã©ï¼Œãã®æ™‚åˆ»ã«æ­£è¦ãƒã‚§ãƒ¼ãƒ³ã®ãƒ–ãƒ­ãƒƒã‚¯
+
 UpdateTip: new best=00000001d60df1ec9a7190b63c3df2f937fdcfd32027df944a06d9e810755f61 height=1389765 version=0x20000000 log2_work=49.070768 tx=2761116 date='2018-11-06 21:33:58' 
-‚ª•s³ƒ`ƒF[ƒ“‚Ì
-UpdateTip: new best=0000001a345c04e31d6230d8fc204ee38a575f1e4211c8c97926e5f9d03e8801 height=1389866 version=0x20000000 log2_work=49.070766 tx=2762108 date='2018-11-06 21:32:48' 
-‚Ìchainwork‚ğ’Ç‚¢‰z‚µ‚½‚Ì‚ÅŠª‚«–ß‚µ‚©‚©‚Á‚Ä‚Ü‚·D
 
-chainwork‚Íbits(difficulty)‚ÌÏ‚İd‚Ë‚È‚Ì‚ÅCƒnƒbƒVƒ…ƒŒ[ƒg‚ª‚‚¢‚Ù‚Ç‚‚¢’l‚É‚È‚Á‚Ä‚¢‚­‚æ‚¤‚Å‚·D
-‚±‚±‚Ì•\¦‚Å‚Ílog2_work‚ªchainwork’l‚Å‚·ilog‚Æ‚Á‚Ä‚Ü‚·‚ªj
+ãŒä¸æ­£ãƒã‚§ãƒ¼ãƒ³ã®
+
+UpdateTip: new best=0000001a345c04e31d6230d8fc204ee38a575f1e4211c8c97926e5f9d03e8801 height=1389866 version=0x20000000 log2_work=49.070766 tx=2762108 date='2018-11-06 21:32:48' 
+
+ã®chainworkã‚’è¿½ã„è¶Šã—ãŸã®ã§å·»ãæˆ»ã—ã‹ã‹ã£ã¦ã¾ã™ï¼
+
+chainworkã¯bits(difficulty)ã®ç©ã¿é‡ã­ãªã®ã§ï¼Œãƒãƒƒã‚·ãƒ¥ãƒ¬ãƒ¼ãƒˆãŒé«˜ã„ã»ã©é«˜ã„å€¤ã«ãªã£ã¦ã„ãã‚ˆã†ã§ã™ï¼
+
+ã“ã“ã®è¡¨ç¤ºã§ã¯log2_workãŒchainworkå€¤ã§ã™ï¼ˆlogã¨ã£ã¦ã¾ã™ãŒï¼‰
 
 ## Related information
 
