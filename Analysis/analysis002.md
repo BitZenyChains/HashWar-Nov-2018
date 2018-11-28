@@ -67,3 +67,6 @@ ApplyTxInUndo()内 alternate.IsSpent() == true
 
 巻き戻りが起きるだけならまだしも、脆弱性突かれたことで不正トランザクションが混ざり、それが原因でノードが一気に停止するのは今回くらいでしょうね。
 
+## Related information
+
+https://anon-secchan.hatenablog.com/entry/2018/11/28/035208
